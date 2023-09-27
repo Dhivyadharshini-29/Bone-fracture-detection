@@ -26,3 +26,8 @@ This paper presented an image processing technique for bone fracture detection, 
 
 **Acknowledgment:**
 [1] Peruri Srinivasulu, Jollu Vamsi, Kattubadi Drutesh, and Gandham Prudhvi. "Bone Fracture Detection using Image Processing." Published in the International Journal of Scientific and Research Publications, June 2020, Volume 5, Issue 6.
+
+![Screenshot 2023-09-27 162818](https://github.com/shrutilenka/Bone-fracture-detection-using-Image-Processing-using-MATLAB/assets/96660357/26aee6e7-0e60-483d-85f8-c418a878ad18)
+![Screenshot 2023-09-27 163024](https://github.com/shrutilenka/Bone-fracture-detection-using-Image-Processing-using-MATLAB/assets/96660357/ada7e589-69b1-442f-a805-bc13d847c16c)
+
+
